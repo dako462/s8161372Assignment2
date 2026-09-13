@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.S8161372Assignment2"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Light theme -->
+    </style>
+
+    <style name="Theme.S8161372Assignment2"
+        parent="Base.Theme.S8161372Assignment2" />
+
+</resources>
